@@ -7,23 +7,11 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+cd cordova
+cordova platform add android
 ```
 
-### Compiles and minifies for production
+### come to root project
 ```
-npm run build
+npm run cordova-serve-android
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
